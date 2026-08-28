@@ -18,7 +18,7 @@ bin/
 test-output/
 allure-results/
 allure-report/
-screenshots/
+failTestScreenshots/
 report.html
 
 # Compiled files
