@@ -38,4 +38,6 @@ Thumbs.db
 # Secrets
 .env
 *.properties
+*.properties
 !src/test/resources/*.properties
+
